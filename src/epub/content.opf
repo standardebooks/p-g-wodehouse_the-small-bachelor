@@ -43,43 +43,43 @@
 		<meta property="term" refines="#subject-4">sh2008113118</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008108758</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Comedy</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">Love at first sight sets off a series of comedic hijinks and misadventures for a struggling artist and his dream girl.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Taking place in Prohibition-era New York, &lt;i&gt;The Small Bachelor&lt;/i&gt; tells the story of George Finch, a young man who has pursued his dream of becoming an artist in the big city, despite the lack of talent he displays in his chosen profession. Living a comfortable life after receiving a substantial inheritance two years ago, George spends his time in various ways, sometimes painting pictures of dubious artistic quality, sometimes seeking the advice of his friend and multitalented author &lt;abbr&gt;J.&lt;/abbr&gt; Hamilton Beamish, and more recently, finding the courage to propose his love to Molly Waddington, the dream girl he discovered one day while walking the street one fortuitous day.&lt;/p&gt;
+			&lt;p&gt;George’s noble quest for love proves to be proves to be a difficult challenge, as he soon discovers after meeting Molly’s father and finding himself suddenly being invited to dinner at the Waddington household. George has to face an increasing number of obstacles in order to win Molly’s heart and prove his worth as a husband, starting with having to earn the approval of Mrs. Waddington—who has already contemplated marrying her step-daughter to an English lord who’s shown an interest in her, and has no intention of allowing Molly to enter a relationship with a man who can barely earn a living and wastes his time pretending to be an artist.&lt;/p&gt;
+			&lt;p&gt;The novel also invites the reader to take a glimpse into the lives of the unlikely group that surround George and Molly’s tale of romance, such as a policeman with an affinity for poetry, a self-help scholar who becomes fascinated with a fortune teller, a reformed convict who has his eyes on a pickpocketing lady, and other wacky characters who either oppose or are in favor of a marriage between George Finch and Molly Waddington.&lt;/p&gt;
+			&lt;p&gt;Published in 1927, &lt;i&gt;The Small Bachelor&lt;/i&gt; proves to be a great example of &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;&lt;abbr&gt;P. G.&lt;/abbr&gt; Wodehouse’s &lt;/a&gt; ability to craft comic fiction, mixing together converging storylines that focus on romantic trouble with fun and wacky hijinks and a rich use of vocabulary and controlled narrative mayhem. The novel’s story and characters were inspired by a book written for the 1918 musical &lt;i&gt;Oh, Lady! Lady!!&lt;/i&gt; by Wodehouse and Guy Bolton, and the revised story featured &lt;i&gt;The Small Bachellor&lt;/i&gt; would later be adapted to film in the silent movie of the same name released in 1927, and in the stage production &lt;i&gt;Over the Moon&lt;/i&gt; in 2003.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70041</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/smallbachelor0000unse</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Small_Bachelor</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_the-small-bachelor</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
 		<meta property="file-as" refines="#author">Wodehouse, P. G.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Sir Pelham Grenville Wodehouse</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/P._G._Wodehouse</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n78089036</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089036</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Frank Marston</dc:contributor>
+		<meta property="file-as" refines="#artist">Marston, Frank</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Sergio Tellez</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Tellez, Sergio</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
