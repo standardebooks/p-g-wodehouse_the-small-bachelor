@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-2.xhtml">
 		<ignore code="t-064">
+			<line>142</line>
 			<reason>Matched text is correctly titlecased.</reason>
 		</ignore>
 	</file>
